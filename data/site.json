@@ -1,0 +1,175 @@
+{
+ "settings": {
+  "name": "Covelyne Maison",
+  "tagline": "Academy of Beauty",
+  "whatsapp": "254700000000",
+  "email": "admissions@covelyne.example",
+  "location": "Kimana, Kajiado County, Kenya",
+  "hero": "images/hero.jpg",
+  "studio": "images/studio.jpg",
+  "headline": "Beauty is a profession, an art and an enterprise.",
+  "sub": "Covelyne Maison trains professionals in hair, nails and beauty. Rooted in Africa, built for the world."
+ },
+ "admin": {
+  "hash": "bdf49ac36f18c4324a38dcb8e8693971be37d42f9709491a5e70a3947bd9e062"
+ },
+ "courses": [
+  {
+   "id": "hair",
+   "name": "Hair Artistry",
+   "level": "Certificate",
+   "duration": "6-12 months",
+   "fee": 65000,
+   "img": "images/braiding.jpg",
+   "summary": "Braiding, styling, colour and wig construction, practised on live clients in our studio.",
+   "outcomes": "Professional braiding and styling; Colour and treatment basics; Wig making and installation; Client consultation"
+  },
+  {
+   "id": "nails",
+   "name": "Nail Technology",
+   "level": "Certificate",
+   "duration": "3-6 months",
+   "fee": 38000,
+   "img": "images/nails.jpg",
+   "summary": "Gel, acrylic and nail art for salon work and freelance practice.",
+   "outcomes": "Natural nail care; Gel and acrylic systems; Nail art; Hygiene and safety"
+  },
+  {
+   "id": "biz",
+   "name": "Business of Beauty",
+   "level": "Short course",
+   "duration": "6 weeks",
+   "fee": 15000,
+   "img": "images/uniform.jpg",
+   "summary": "Pricing, client retention and launching your own studio.",
+   "outcomes": "Pricing and costing; Marketing on WhatsApp and social media; Booking and records; Studio set-up"
+  }
+ ],
+ "products": [
+  {
+   "id": "p1",
+   "name": "Silk Straight Frontal Wig",
+   "cat": "Wigs",
+   "texture": "Straight",
+   "length": "20 in",
+   "lace": "13x4 HD lace",
+   "price": 38500,
+   "stock": 5,
+   "img": "",
+   "desc": "Pre-plucked hairline, 150% density."
+  },
+  {
+   "id": "p2",
+   "name": "Body Wave Lace Wig",
+   "cat": "Wigs",
+   "texture": "Body wave",
+   "length": "24 in",
+   "lace": "5x5 closure lace",
+   "price": 42000,
+   "stock": 2,
+   "img": "",
+   "desc": "Soft, bouncy wave that holds its shape."
+  },
+  {
+   "id": "p3",
+   "name": "Deep Curl Bundles (3)",
+   "cat": "Bundles",
+   "texture": "Deep curl",
+   "length": "18/20/22 in",
+   "lace": "Bundle set",
+   "price": 26000,
+   "stock": 8,
+   "img": "",
+   "desc": "Three bundles, single donor, minimal shedding."
+  },
+  {
+   "id": "p4",
+   "name": "Straight Bundle Pair",
+   "cat": "Bundles",
+   "texture": "Straight",
+   "length": "16/18 in",
+   "lace": "Bundle set",
+   "price": 17500,
+   "stock": 12,
+   "img": "",
+   "desc": "Smooth, full ends, easy to colour."
+  },
+  {
+   "id": "p5",
+   "name": "HD Lace Closure 5x5",
+   "cat": "Closures",
+   "texture": "Body wave",
+   "length": "14 in",
+   "lace": "HD Swiss lace",
+   "price": 11500,
+   "stock": 6,
+   "img": "",
+   "desc": "Melts into most skin tones."
+  },
+  {
+   "id": "p6",
+   "name": "Lace Frontal 13x4",
+   "cat": "Closures",
+   "texture": "Straight",
+   "length": "16 in",
+   "lace": "Transparent lace",
+   "price": 14500,
+   "stock": 0,
+   "img": "",
+   "desc": "Ear-to-ear coverage, natural parting."
+  }
+ ],
+ "gallery": [
+  {
+   "src": "images/braid2.jpg",
+   "caption": "Braiding practical"
+  },
+  {
+   "src": "images/braid3.jpg",
+   "caption": "Team styling session"
+  },
+  {
+   "src": "images/nails2.jpg",
+   "caption": "Nail artistry"
+  },
+  {
+   "src": "images/nails3.jpg",
+   "caption": "Studio floor"
+  },
+  {
+   "src": "images/tables.jpg",
+   "caption": "Practice tables"
+  },
+  {
+   "src": "images/nails.jpg",
+   "caption": "Gel application"
+  },
+  {
+   "src": "images/braiding.jpg",
+   "caption": "Live client training"
+  },
+  {
+   "src": "images/uniform.jpg",
+   "caption": "Covelyne uniform"
+  },
+  {
+   "src": "images/cohort.jpg",
+   "caption": "Cohort with client"
+  },
+  {
+   "src": "images/practice.jpg",
+   "caption": "Practice session"
+  },
+  {
+   "src": "images/studio.jpg",
+   "caption": "The training studio"
+  }
+ ],
+ "orders": [
+  {
+   "no": "HC-1024",
+   "status": "Dispatched",
+   "note": "Courier to Nairobi, arriving tomorrow"
+  }
+ ]
+}
